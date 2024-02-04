@@ -1,2 +1,2 @@
 # Git教程
--feature-A
+merge feature-A
